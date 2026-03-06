@@ -1,0 +1,1 @@
+﻿New-PSUTerminal -Name "Browser Terminal" -Role @('Administrator') -IdleTimeout 0

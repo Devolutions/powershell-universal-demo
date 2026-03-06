@@ -1,0 +1,1 @@
+﻿New-PSUBranding -AdminConsoleTitle "PowerShell Universal" -LoginPageTitle "PowerShell Universal" -LoginPageText "Login with your account." -LoginPageDescription "Access scripts for your environment." -PortalTitle "Devolutions Automation Portal" -LoginPageTheme "System" -LoginPageLayout "Horizontal"

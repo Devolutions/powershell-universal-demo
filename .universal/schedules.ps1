@@ -1,0 +1,1 @@
+﻿New-PSUSchedule -Script "CacheUsers.ps1" -TimeZone "America/Chicago" -Name "Cache Users" -EveryHour

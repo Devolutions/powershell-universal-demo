@@ -1,0 +1,1 @@
+﻿New-PSUPublishedFolder -RequestPath "/assets/" -Path "assets" -Name "Assets"

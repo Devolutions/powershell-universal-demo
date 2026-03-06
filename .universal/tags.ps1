@@ -1,0 +1,2 @@
+﻿New-PSUTag -Name "DEV" -Color "#264ca6" -FontColor "#ffffff" -DisplayInPortal -Role @('Administrator', 'Operator') -Icon "bug" 
+New-PSUTag -Name "HR" -Color "#8fd822" -DisplayInPortal -Role @('Administrator', 'Operator') -Icon "user"

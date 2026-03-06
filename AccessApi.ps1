@@ -1,0 +1,1 @@
+﻿Write-Host "API Key Length: $($Secret:MyApiKey.Length)" 
